@@ -1,0 +1,42 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+
+# Database files (contains your personal data)
+*.db
+*.sqlite
+*.sqlite3
+
+# Video files (too large)
+*.mp4
+*.avi
+*.mov
+*.mkv
+
+# Logs
+logs/
+*.log
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Test files
+test_*.mp4
+sample_*.mp4
