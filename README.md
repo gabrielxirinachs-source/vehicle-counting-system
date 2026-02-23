@@ -1,3 +1,5 @@
+# vehicle-counting-system
+"AI-powered real-time vehicle detection and counting system using YOLOv8 and Flask"
 # AI-Powered Vehicle Counting System
 
 Real-time vehicle detection and counting system using computer vision and deep learning, designed for traffic management at port terminals.
